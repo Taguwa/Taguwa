@@ -6,7 +6,7 @@
 
 ### ❯ About me
 hi there.
-this page explain about my repository and my　Dev environment.
+this page explain about my repository and　my　Dev　environment.
 
 ### ❯ About my repository
 
