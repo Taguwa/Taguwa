@@ -5,15 +5,14 @@
 </p>
 
 ### ❯ About me
-this page explain about my repository.
-
+hi there.
+this page explain about my repository and my　Dev environment.
 
 ### ❯ About my repository
 
 - **Taguwa/research_GUI**
 - **Taguwa/xur.github.io**
 - **Taguwa/GitLogs**
-
 
 ## ❯ LANG
 <div align="center">
