@@ -20,6 +20,15 @@ this page explain about my repository and　my　Dev　environment.
 ![os](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
 ![Python](https://img.shields.io/badge/Python-377bAB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
+    
+
+<div align="left">
+    
+## ❯ USE
+<div align="center">
+
+<img src="https://img.shields.io/static/v1?label=OS&message=mac%20/%20Windows&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=Atom&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Chrome%20&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=vamillo&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Display/Mouse&message=benQ&color=black&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Sound&message=sennheiser&color=white&style=flat-square"/>
+</div>
 <!--
 **Taguwa/Taguwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
