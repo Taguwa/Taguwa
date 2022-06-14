@@ -3,6 +3,9 @@
     <img src="https://img.shields.io/twitter/follow/twitter?logo=twitter&style=flat-square" alt="comment" />
 </a>
 </p>
+<div align="center">
+        <img src="" width="20%">
+</div>
 
 ### ❯ About
 hi there.
