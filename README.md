@@ -8,6 +8,7 @@
 </div>
 
 ### ❯ About
+
 ```
 hi there my profile.
 
@@ -17,9 +18,9 @@ Personal repositories are used for backup and sharing code.
 ```
 ### ❯ About my repository
 
-- **Taguwa/research_GUI**
-- **Taguwa/xur.github.io**
-- **Taguwa/GitLogs**
+```
+comming soon
+```
 
 ## ❯ LANG
 <div align="center">
