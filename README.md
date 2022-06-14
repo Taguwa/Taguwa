@@ -8,11 +8,13 @@
 </div>
 
 ### ❯ About
-hi there.
+'''
+hi there my profile.
+
 this page explain about my dev environment.
 
 Personal repositories are used for backup and sharing code.
-
+'''
 ### ❯ About my repository
 
 - **Taguwa/research_GUI**
@@ -35,10 +37,15 @@ Personal repositories are used for backup and sharing code.
 </div>
     
 ## ❯ INTEREST
+    
    - Machine learning
    - search algolizm
    - java dev
    - web db
+    
+## ❯ REF
+
+[Markdown Reference](https://qiita.com/Qiita/items/c686397e4a0f4f11683d#codepen)
 <!--
 **Taguwa/Taguwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
