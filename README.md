@@ -7,6 +7,7 @@
 ### ❯ About me
 hi there.
 this page explain about my dev environment.
+個人repositoryはbackupや共有に使っています。
 
 ### ❯ About my repository
 
