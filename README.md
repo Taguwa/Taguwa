@@ -6,7 +6,7 @@
 
 ### ❯ About me
 hi there.
-this page explain about my repository and　my　Dev　environment.
+this page explain about my dev environment.
 
 ### ❯ About my repository
 
@@ -17,7 +17,6 @@ this page explain about my repository and　my　Dev　environment.
 ## ❯ LANG
 <div align="center">
   
-![os](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
 ![Python](https://img.shields.io/badge/Python-377bAB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
     
@@ -34,6 +33,7 @@ this page explain about my repository and　my　Dev　environment.
 
 Here are some ideas to get you started:
 
+![os](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
