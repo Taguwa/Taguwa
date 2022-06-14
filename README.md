@@ -33,6 +33,12 @@ Personal repositories are used for backup and sharing code.
 
 <img src="https://img.shields.io/static/v1?label=OS&message=mac%20/%20Windows&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=Atom&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Chrome%20&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=vamillo&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Display/Mouse&message=benQ&color=black&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Sound&message=sennheiser&color=white&style=flat-square"/>
 </div>
+    
+## ❯ INTEREST
+   - Machine learning
+   - search algolizm
+   - java dev
+   - web db
 <!--
 **Taguwa/Taguwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
