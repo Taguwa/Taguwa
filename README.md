@@ -4,10 +4,11 @@
 </a>
 </p>
 
-### ❯ About me
+### ❯ About
 hi there.
 this page explain about my dev environment.
-個人repositoryはbackupや共有に使っています。
+
+Personal repositories are used for backup and sharing code.
 
 ### ❯ About my repository
 
@@ -17,7 +18,7 @@ this page explain about my dev environment.
 
 ## ❯ LANG
 <div align="center">
-  
+
 ![Python](https://img.shields.io/badge/Python-377bAB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
     
