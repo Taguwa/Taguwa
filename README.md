@@ -8,13 +8,13 @@
 </div>
 
 ### ❯ About
-'''
+```
 hi there my profile.
 
 this page explain about my dev environment.
 
 Personal repositories are used for backup and sharing code.
-'''
+```
 ### ❯ About my repository
 
 - **Taguwa/research_GUI**
