@@ -47,9 +47,10 @@ comming soon
 ## ❯ REF
 
 [Markdown Reference](https://qiita.com/Qiita/items/c686397e4a0f4f11683d#codepen)
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=Taguwa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Taguwa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 **Taguwa/Taguwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
