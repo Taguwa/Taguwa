@@ -12,6 +12,8 @@
 ```
 hi there my profile.
 
+I was born in Japan and live in Japan.
+
 this page explain about my dev environment.
 
 Personal repositories are used for backup and sharing code.
