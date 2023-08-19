@@ -1,7 +1,7 @@
-## ❯ About
+## ❯ workspace
 https://likelihood.streamlit.app/
 
-## ❯ LANG
+## ❯ programming
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-377bAB?style=flat-square&logo=python&logoColor=white)
@@ -10,7 +10,7 @@ https://likelihood.streamlit.app/
 
 <div align="left">
     
-## ❯ USE
+## ❯ device
 <div align="center">
 
 <img src="https://img.shields.io/static/v1?label=OS&message=mac%20/%20Windows&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Chrome%20&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=vamillo&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Display&message=benQ&color=black&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Mouse&message=G pro X superlight&color=brown&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Sound&message=sennheiser&color=white&style=flat-square"/>
