@@ -7,18 +7,10 @@
         <img src="https://user-images.githubusercontent.com/49393142/173489505-e23e40eb-0994-4366-96da-e21d3e75fdef.jpg" width="20%">
 </div>
 
-### ❯ About
+## ❯ About
+https://likelihood.streamlit.app/
 
-```
-hi there my profile.
-
-I was born in Japan and live in Japan.
-
-this page explain about my dev environment.
-
-Personal repositories are used for backup and sharing code.
-```
-### ❯ About my repository
+## ❯ About my repository
 
 ```
 comming soon
@@ -39,31 +31,4 @@ comming soon
 <img src="https://img.shields.io/static/v1?label=OS&message=mac%20/%20Windows&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Chrome%20&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=vamillo&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Display&message=benQ&color=black&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Mouse&message=G pro X superlight&color=brown&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Sound&message=sennheiser&color=white&style=flat-square"/>
 </div>
 </div>
-    
-## ❯ INTEREST
-    
-   - Machine learning
-   - search algolizm
-   - java dev
-   - web db
-    
-## ❯ REFERENCE
 
-[Markdown Reference](https://qiita.com/Qiita/items/c686397e4a0f4f11683d#codepen)
-    
-<!--
-
-**Taguwa/Taguwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-![os](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- -->
