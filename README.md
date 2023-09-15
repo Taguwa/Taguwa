@@ -17,6 +17,7 @@ https://likelihood.streamlit.app/
 - deep learning
 - image recognition
 - programming
+- algorithm
 - pc hardware
 - middleware (a little)
 <div align="center">
