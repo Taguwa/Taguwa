@@ -12,8 +12,8 @@ HuggingFace : https://huggingface.co/URuin
 ## > tech
 
 <div align="center">
-![Python](https://img.shields.io/badge/Python-377bAB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
+        <img src="https://img.shields.io/badge/Python-377bAB?style=flat-square&logo=python&logoColor=white"/> 
+        <img src="(https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B"/> 
 </div>
 
 <div align="center">
