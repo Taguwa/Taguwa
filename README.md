@@ -33,5 +33,6 @@ HuggingFace : https://huggingface.co/URuin
 <img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B"/> 
 </div>
 
-
+## > contact
+taguwad@gmail.com
 
