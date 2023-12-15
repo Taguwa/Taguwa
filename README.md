@@ -8,9 +8,9 @@
 
 
 
-## ❯ workspace
-HP : https://likelihood.streamlit.app/  
-HuggingFace : https://huggingface.co/URuin
+## ❯ about
+portfolio >> pinned repository
+web application , C++ , python develop , ML/AI project
 
 ## ❯ Enviroment
 
