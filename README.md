@@ -9,7 +9,10 @@
 
 
 ## ❯ about
-portfolio >> pinned repository
+portfolio >> pinned repository  
+
+
+
 web application , C++ , python develop , ML/AI project
 
 ## ❯ Enviroment
