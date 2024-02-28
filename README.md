@@ -4,6 +4,7 @@
 
 <div align="center">
         <img src="https://user-images.githubusercontent.com/49393142/173489505-e23e40eb-0994-4366-96da-e21d3e75fdef.jpg" width="20%">
+</div>
 
 ## ❯ about
 portfolio >> pinned repository  
